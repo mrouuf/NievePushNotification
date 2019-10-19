@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520881404962",
+    "firebase_url": "https://nievepushnotification.firebaseio.com",
+    "project_id": "nievepushnotification",
+    "storage_bucket": "nievepushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520881404962:android:c691b42c79aa5bc3",
+        "android_client_info": {
+          "package_name": "com.example.nievepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520881404962-5io5pq2aflbp0pvspp8b07lknp44o1i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nievepushnotification",
+            "certificate_hash": "a4eed0c0cbde10f8599e6f27d1f3dcd6efa53c9e"
+          }
+        },
+        {
+          "client_id": "520881404962-et4jfumbn1pvk8biabvabclldfm34871.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoWukvUhgisZr5jeHzA0tjPD7jCNJ1Iws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520881404962-et4jfumbn1pvk8biabvabclldfm34871.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
